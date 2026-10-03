@@ -20,4 +20,4 @@ if ($PSScriptRoot -ne "C:\Users\ricky\Desktop\Coding Projects\Lidarr") {
 		$ps1Path = $PSScriptRoot + "\flac to mp3 320k.bat"
 		Remove-Item $batPath
 		Remove-Item $ps1Path
-	}
+}
